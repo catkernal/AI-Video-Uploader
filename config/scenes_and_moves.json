@@ -1,0 +1,68 @@
+{
+  "scenes": [
+    "cheerful modern living room with pastel blue walls and cozy rug",
+    "sunny flower meadow with rolling green hills and butterflies",
+    "magical vibrant enchanted forest with glowing mushrooms",
+    "sunny tropical beach with golden sand and calm turquoise waves",
+    "colorful candy playground with lollipop trees and rainbow slides",
+    "cozy rustic red barn floor with hay bales and fairy lights",
+    "snowy winter wonderland with soft snowflakes and gingerbread houses",
+    "underwater coral palace with glowing starfish and gentle bubbles"
+  ],
+  "weathers": [
+    "bright warm morning sunlight streaming in",
+    "cheerful rainbow arching across clear blue skies",
+    "gentle playful breeze with floating dandelion seeds",
+    "golden hour sunset casting a warm magical glow",
+    "soft twinkling indoor fairy lights and sunshine",
+    "crisp crystal-clear sunny afternoon"
+  ],
+  "shots": [
+    "wide full-body shot showing entire choreography from head to toe",
+    "dynamic medium frontal shot highlighting expressive face and upper body",
+    "low angle dynamic shot from below emphasizing jumps and high energy",
+    "close-up camera sweep across joyful face and rhythmic upper body",
+    "slightly elevated top-down angle showing footwork and floor patterns",
+    "tracking side-profile shot following the dancer left to right"
+  ],
+  "dance_moves": {
+    "hands_and_arms": [
+      "enthusiastic jazz hands waving high in the air with sparkling fingers",
+      "rhythmic overhead clapping with arms stretching wide then snapping together",
+      "circular arm windmill swings with energetic fist pumps",
+      "pointing finger gun dance with snappy wrist flicks left and right",
+      "smooth arm wave ripple flowing side to side like an ocean wave",
+      "rapid hand shaking shimmy with palms open near the face"
+    ],
+    "legs_and_feet": [
+      "high knee marching stomp with bouncy exaggerated steps",
+      "side-to-side shuffle stepping with quick toe-tap-heel combos",
+      "energetic star jumps with legs spreading wide in the air",
+      "playful kick-step routine with pointed toes and goofy grins",
+      "fast on-the-spot tap dance footwork with clicking heels",
+      "galloping horse-trot steps bouncing across the stage"
+    ],
+    "hips_and_torso": [
+      "sassy hip shaking and wiggling side to side with hands on hips",
+      "smooth circular hip rotation gyrating in a big fun loop",
+      "funky torso pop-and-lock with sharp isolations",
+      "playful belly-wiggle shimmy with arms out for balance",
+      "twisting torso swivels turning left then right rapidly"
+    ],
+    "head_and_face": [
+      "rhythmic head bobbing and nodding forward to the beat",
+      "playful alternating head tilts left and right with big eyes",
+      "smooth circular head rolls with an exaggerated cheerful grin",
+      "rapid side-to-side head shaking like saying no-no-no with a smile",
+      "chin-up proud head lift followed by a cheeky wink and nod"
+    ],
+    "full_body": [
+      "full spinning twirl pirouette with arms stretched out wide",
+      "bouncy whole-body jump landing in a fun freeze pose",
+      "fluid wave motion rolling from head down through knees to toes",
+      "energetic full-body pop-and-lock hitting sharp robot poses",
+      "silly noodle wiggle dance shaking the entire body like jelly",
+      "explosive jumping jack bursts with clapping hands overhead"
+    ]
+  }
+}

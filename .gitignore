@@ -1,0 +1,36 @@
+# Environment & Secrets (NEVER commit secrets!)
+.env
+.env.*
+!.env.example
+credentials/youtube_token.json
+credentials/youtube_creds.json
+!credentials/youtube_creds.json.example
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Video outputs & temporary generation cache
+output/*.mp4
+output/*.log
+output/cron.log
+assets/*.mp4
+assets/*.png
+assets/test_shots/
+!assets/music/
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.agents/

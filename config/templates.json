@@ -1,0 +1,6 @@
+{
+  "system_style": "High-end 3D CGI animation in vibrant Pixar / Cocomelon / Illumination style, 9:16 vertical portrait aspect ratio, ultra-clean character modeling, soft studio cinematic lighting, vivid kid-friendly color palette.",
+  "prompt_template": "A delightful 3D CGI animated short video in Pixar/Cocomelon style, vertical 9:16 framing. Featuring {characters_description} dancing together happily with joyful energy. Staged in a {scene} under {weather}. The characters {performance_verb} {dance_move} with flawless rhythm, big smiles, and playful charm. Camera is a {shot}. Vibrant, heartwarming, viral kid-friendly dance energy.",
+  "title_template": "{characters_names} Dance Party! 🐾🎈 #Shorts",
+  "caption_template": "Dance along with {characters_names}! 🌟 Can you do the {dance_move}? Like and subscribe for more animal dance buddies! 🎵✨\n\n#Shorts #KidsDance #Cocomelon #AnimalDance #Animation #ViralShorts"
+}
